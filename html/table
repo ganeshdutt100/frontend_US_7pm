@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+
+<body>
+    <table border="1">
+        <tr>
+            <th>heading1</th>
+            <th>heading2</th>
+            <th>heading3</th>
+        </tr>
+        <tr>
+            <td>data 1</td>
+            <td rowspan="2">data 2</td>
+            <td>data 3</td>
+        </tr>
+        <tr>
+            <td>data 1</td>
+            <!-- <td>data 2</td> -->
+            <td>data 3</td>
+        </tr>
+        <tr>
+            <td>data 1</td>
+            <td colspan="2">data 2</td>
+            <!-- <td>data 3</td> -->
+        </tr>
+    </table>
+</body>
+
+</html>
