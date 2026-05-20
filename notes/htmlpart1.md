@@ -97,7 +97,7 @@ applying CSS styles or targeting elements with JavaScript.
     <abbr title="Hypertext Markup Language">HTML</abbr>
 23. target: Specifies where to open the linked document when using anchor elements
     (`<a>`).
-    <a href="https://ganeshdutt.netlify.app/" target="_blank">Link</a>
+    <a href="https://ganeshdutt.verccel.app/" target="_blank">Link</a>
 
     Essential HTML Tags
 
