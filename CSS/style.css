@@ -1,0 +1,20 @@
+h1 {
+  color: rgb(135, 33, 15);
+  background-color: yellow;
+
+  margin: 20px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin: 10px 57px 83px 92px;
+  margin: 100px 50px;
+
+  padding: 20px;
+  padding: 40px 50px;
+  padding: 10px 20px 40px 60px;
+  padding-left: 50px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 10px;
+}
